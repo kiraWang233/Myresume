@@ -10,24 +10,24 @@ LinkedIn/GitHub: [[Optional Links]](https://kirawang233.github.io/Myresume/)
 
 # Objective
 
-To obtain a postdoctoral position focusing on young children’s cognitive and emotional development, with an emphasis on causal learning, intuitive theories, and interdisciplinary approaches integrating cognitive neuroscience and computational modeling.
+To obtain a postdoctoral position focusing on  **young children’s cognitive** and **emotional development**, with an emphasis on causal learning, intuitive theories, and interdisciplinary approaches integrating cognitive neuroscience and computational modeling.
 
 # Education
 
-Combined Master-PhD Program in Educational Psychology
-University of Macau
-08/2019 - Present
-Accumulative GPA: 3.78/4(Top 5% of the major)
+Combined Master-PhD Program in Educational Psychology<br>
+University of Macau<br>
+08/2019 - Present<br>
+Accumulative **GPA: 3.78/4**(Top 5% of the major)<br>
 
-Bachelor of Education in Pre-primary Education
-University of Macau
-08/2015 - 06/2019
-Accumulative GPA: 3.35/4 (Top 5% of the major)
+Bachelor of Education in Pre-primary Education<br>
+University of Macau<br>
+08/2015 - 06/2019<br>
+Accumulative  **GPA: 3.35/4**(Top 5% of the major)<br>
 
-Summer Program in Early Childhood Education and Development
-University of British Columbia, Vancouver
-07/2018 - 08/2018
-Completed comprehensive coursework on early childhood education and development.
+Summer Program in Early Childhood Education and Development<br>
+University of British Columbia, Vancouver<br>
+07/2018 - 08/2018<br>
+Completed comprehensive coursework on early childhood education and development.<br>
 
 # Current Affiliation
 
@@ -35,7 +35,7 @@ Centre for Early Childhood Education and Child Development, Faculty of Education
 Website: [https://cececd.fed.um.edu.mo/](https://cececd.fed.um.edu.mo/)
 
 Centre for Cognitive and Brain Sciences, University of Macau
-Website: https://ccbs.ici.um.edu.mo/
+Website: [https://ccbs.ici.um.edu.mo/](https://ccbs.ici.um.edu.mo/)
 
 # Research Experience
 ## Thesis Research
