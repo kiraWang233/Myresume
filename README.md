@@ -6,7 +6,7 @@ Email: [Your Email Address]
 
 Phone: [Your Phone Number]
 
-LinkedIn/GitHub: [Optional Links]
+LinkedIn/GitHub: [[Optional Links]](https://kirawang233.github.io/Myresume/)
 
 # Objective
 
@@ -32,7 +32,7 @@ Completed comprehensive coursework on early childhood education and development.
 # Current Affiliation
 
 Centre for Early Childhood Education and Child Development, Faculty of Education, University of Macau
-Website: https://cececd.fed.um.edu.mo/
+Website: [https://cececd.fed.um.edu.mo/](https://cececd.fed.um.edu.mo/)
 
 Centre for Cognitive and Brain Sciences, University of Macau
 Website: https://ccbs.ici.um.edu.mo/
@@ -95,22 +95,22 @@ Experimental Design: Extensive experience in developing and executing cross-sect
 
 ## Published Articles
 
-Wang, Y., Zhang, J., & Mao, Y. (2024). Harmonizing mathematics: Unveiling the impact of music integration on academic performance–A meta-analysis. Thinking Skills and Creativity, 52, 101554.
+[Wang, Y., Zhang, J., & Mao, Y. (2024). Harmonizing mathematics: Unveiling the impact of music integration on academic performance–A meta-analysis. Thinking Skills and Creativity, 52, 101554.](https://www.sciencedirect.com/science/article/abs/pii/S1871187124000920)
 
-Zhang, J., Wang, Y., Leong, C., Mao, Y., & Yuan, Z. (2024). Bridging Stories and Science: An fNIRS-based hyperscanning investigation into child learning in STEM. NeuroImage, 285, 120486.
+[Zhang, J., Wang, Y., Leong, C., Mao, Y., & Yuan, Z. (2024). Bridging Stories and Science: An fNIRS-based hyperscanning investigation into child learning in STEM. NeuroImage, 285, 120486.](https://www.sciencedirect.com/science/article/pii/S1053811923006365)
 
-Zhang, J., Wang, Y., Mao, Y., Leong, C., & Yuan, Z. (2024). Shared Minds, Shared Feedback: tracing the influence of parental feedback on shared neural patterns. Cerebral Cortex, 34(1), bhad489.
+[Zhang, J., Wang, Y., Mao, Y., Leong, C., & Yuan, Z. (2024). Shared Minds, Shared Feedback: tracing the influence of parental feedback on shared neural patterns. Cerebral Cortex, 34(1), bhad489.](https://academic.oup.com/cercor/article-abstract/34/1/bhad489/7503282?redirectedFrom=fulltext&login=false)
 
-Zhang, Y., Zhang, J., & Wang, Y. (2024). The relationship between attachment insecurity and pathological narcissism: A three‐level meta‐analysis. Journal of Family Theory & Review.
+[Zhang, Y., Zhang, J., & Wang, Y. (2024). The relationship between attachment insecurity and pathological narcissism: A three‐level meta‐analysis. Journal of Family Theory & Review.](https://onlinelibrary.wiley.com/doi/10.1111/jftr.12593?af=R)
 
-Mao, Y., Zhang, J., Wang, Y., & Zhang, Y. (2024). The relationship between trait mindfulness and academic performance: a meta-analysis. Educational Psychology, 44(6-7), 690-709.
+[Mao, Y., Zhang, J., Wang, Y., & Zhang, Y. (2024). The relationship between trait mindfulness and academic performance: a meta-analysis. Educational Psychology, 44(6-7), 690-709.](https://www.tandfonline.com/doi/abs/10.1080/01443410.2024.2390957)
 
-Zhang, J., Zhang, Y., Mao, Y., & Wang, Y. (2024). The relationship between insecure attachment and alexithymia: A meta-analysis. Current Psychology, 1-22.
+[Zhang, J., Zhang, Y., Mao, Y., & Wang, Y. (2024). The relationship between insecure attachment and alexithymia: A meta-analysis. Current Psychology, 1-22.](https://link.springer.com/article/10.1007/s12144-023-04749-0)
 
-Mao, Y., Zhang, J., Liu, Y., & Wang, Y. (2024). Mindfulness matters: Unveiling the relationship between trait mindfulness and procrastination–A three level meta-analysis. The Journal of General Psychology, 1-22.
+[Mao, Y., Zhang, J., Liu, Y., & Wang, Y. (2024). Mindfulness matters: Unveiling the relationship between trait mindfulness and procrastination–A three level meta-analysis. The Journal of General Psychology, 1-22.](https://pubmed.ncbi.nlm.nih.gov/39340416/)
 
-Zhang, J., Mao, Y., Wang, Y., & Zhang, Y. (2023). The relationship between trait mindfulness and resilience: A meta‐analysis. Personality and Mental Health.
+[Zhang, J., Mao, Y., Wang, Y., & Zhang, Y. (2023). The relationship between trait mindfulness and resilience: A meta‐analysis. Personality and Mental Health.](https://pubmed.ncbi.nlm.nih.gov/36958861/)
 
-Zhang, J., Wang, Y.*, Wu, C., & He, J. (2022). The relationship between emotional intelligence and eating disorders or disordered eating behaviors: A meta-analysis. Personality and Individual Differences, 185, 111239.
+[Zhang, J., Wang, Y.*, Wu, C., & He, J. (2022). The relationship between emotional intelligence and eating disorders or disordered eating behaviors: A meta-analysis. Personality and Individual Differences, 185, 111239.](https://www.sciencedirect.com/science/article/abs/pii/S0191886921006188)
 
-Zhang, J., Wang, Y.*, Li, Q., & Wu, C. (2021). The relationship between SNS usage and disordered eating behaviors: a meta-analysis. Frontiers in Psychology, 12, 641919.
+[Zhang, J., Wang, Y.*, Li, Q., & Wu, C. (2021). The relationship between SNS usage and disordered eating behaviors: a meta-analysis. Frontiers in Psychology, 12, 641919.](https://pubmed.ncbi.nlm.nih.gov/34413807/)
