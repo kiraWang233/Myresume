@@ -73,9 +73,7 @@ morphological awareness in young children.
 ## Social Interactions and Children Learning Process
 10/2020 - 12/2022
 
-+ Led empirical studies using fNIRS hyperscanning to explore the
-neurological impact of parental feedback on the emotional
-outcomes of children aged 6-8.
++ Led empirical studies using fNIRS hyperscanning to explore the neurological impact of parental feedback on the cognitive processes of children aged 6-8 during challenging tasks.
 + Led research investigating the effects of various teaching
 strategies on STEM learning processes in 6-8-year-old children
 using fNIRS hyperscanning.
