@@ -1,16 +1,18 @@
 # Contact Information
 
-Name: [Your Name]
+Name: Yihui Wang
 
-Email: [Your Email Address]
-
-Phone: [Your Phone Number]
+Email: yc17105@um.edu.mo
 
 LinkedIn/GitHub: [[Optional Links]](https://kirawang233.github.io/Myresume/)
 
-# Objective
+# Profile
 
-To obtain a postdoctoral position focusing on  **young children’s cognitive** and **emotional development**, with an emphasis on causal learning, intuitive theories, and interdisciplinary approaches integrating cognitive neuroscience and computational modeling.
+Passionate and motivated Ph.D. candidate with extensive research experience
+in children’s knowledge acquisition and social development. Known for
+strong collaboration skills, a quick learning ability, and an insatiable
+curiosity for the unknown. Enthusiastic about advancing academic
+understanding through innovative research and interdisciplinary approaches.
 
 # Education
 
