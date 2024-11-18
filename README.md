@@ -4,8 +4,6 @@ Name: Yihui Wang
 
 Email: yc17105@um.edu.mo
 
-LinkedIn/GitHub: [[Optional Links]](https://kirawang233.github.io/Myresume/)
-
 # Profile
 
 Passionate and motivated Ph.D. candidate with extensive research experience
@@ -89,11 +87,26 @@ Contributed to the design of evaluation tools for high-quality preschool program
 
 # Skills
 
-Data Analysis and Programming: Proficient in SPSS for statistical modeling and data management; skilled in using R and MATLAB for advanced data processing. Experienced in applying structural equation modeling (SEM), conducting moderation and mediation analyses, performing meta-analyses, and implementing meta-analytic structural equation modeling (MASEM).
+Data Analysis and Programming:
+Proficient in SPSS, R, and
+MATLAB for statistical modeling,
+data management, and advanced
+processing. Experienced in
+structural equation modeling
+(SEM), moderation and mediation
+analyses, meta-analyses, and
+meta-analytic structural equation
+modeling (MASEM).
 
-Cognitive Neuroscience Techniques: Demonstrated expertise in designing research and curating data using EEG, ERP, and fNIRS methodologies; currently acquiring proficiency in fMRI techniques.
-
-Experimental Design: Extensive experience in developing and executing cross-sectional and longitudinal research, effectively integrating behavioral assessments with cognitive neuroscience approaches (e.g., fNIRS, EEG) to investigate cognitive and emotional development.
+Cognitive Neuroscience and
+Experimental Design: Skilled in
+designing and conducting crosssectional and longitudinal studies
+that integrate behavioral
+assessments with cognitive
+neuroscience methodologies,
+including EEG, ERP, and fNIRS;
+currently developing proficiency
+in fMRI.
 
 ## Published Articles
 
